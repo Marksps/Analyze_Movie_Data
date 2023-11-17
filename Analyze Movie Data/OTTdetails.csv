@@ -1,0 +1,501 @@
+Country,Region,Genre,IMDBrating,Title,Released,Type
+USA,North America,"['Comedy', 'Drama', 'Fantasy']",,"Nice & Naughty, A Christmas Story",2021,movie
+USA,North America,['Drama'],,"GodHead: In a fiction, in a dream of passion",2021,movie
+USA,North America,"['Action', 'Drama']",,Frankie's Redemption,2021,movie
+USA,North America,['Drama'],,Twice As Strong: Made of Fire,2021,movie
+USA,North America,"['Drama', 'Romance']",,Divine Decision: Double Down,2021,movie
+USA,North America,['Drama'],,Wet Dog,2021,movie
+USA,North America,['Drama'],,Takkar,2021,movie
+USA,North America,"['Drama', 'Romance', 'Thriller']",,Deceitful Tendencies,2021,movie
+USA,North America,['Drama'],,8 Days with Hopper,2021,movie
+USA,North America,['Action'],,Shadows,2021,movie
+USA,North America,['Documentary'],5.2,A Glitch in the Matrix,2021,movie
+USA,North America,"['Action', 'Adventure', 'Crime']",6.2,Below Zero,2021,movie
+USA,North America,"['Adventure', 'Comedy', 'Fantasy']",7,Kaamelott: First Installment,2021,movie
+USA,North America,['Drama'],,Ordinary People,2021,movie
+USA,North America,['Action'],,The Key,2021,movie
+USA,North America,['Documentary'],,Michael Lally: I Want to Call It Poems,2021,movie
+USA,North America,"['Comedy', 'Drama']",,Small Engine Repair,2021,movie
+USA,North America,"['Sci-Fi', 'Thriller']",,Implanted,2021,movie
+USA,North America,"['Drama', 'Thriller']",,The Uncanny,2021,movie
+USA,North America,['Documentary'],,Science Friction,2021,movie
+USA,North America,"['Action', 'Adventure', 'Drama']",,Spider-Man 4: Fan Film,2021,movie
+USA,North America,['Romance'],,Romantic,2021,movie
+USA,North America,['\\N'],,SUPER Like,2021,movie
+USA,North America,"['Action', 'Adventure', 'Thriller']",6.4,The Vault,2021,movie
+USA,North America,"['Drama', 'History', 'War']",,Kampen om Narvik - Hitlers første nederlag,2021,movie
+USA,North America,"['Documentary', 'Music']",,The Beatles: Get Back,2021,tvMiniSeries
+USA,North America,"['Drama', 'Thriller']",6.1,Crisis,2021,movie
+USA,North America,"['Drama', 'Horror', 'Mystery']",6.7,Fear Street: Part Two - 1978,2021,movie
+USA,North America,['Documentary'],8.3,Bisping,2021,movie
+USA,North America,['Thriller'],4.3,Paradise Cove,2021,movie
+USA,North America,['Thriller'],,Permitted,2021,movie
+USA,North America,['Comedy'],5.5,Off the Rails,2021,movie
+USA,North America,['Comedy'],6.6,Bad Trip,2021,movie
+USA,North America,"['Action', 'Sci-Fi']",1.1,Extraction Point,2021,movie
+USA,North America,"['Adventure', 'Sci-Fi', 'Thriller']",5.4,Voyagers,2021,movie
+USA,North America,"['Comedy', 'Drama']",,Tastings,2021,movie
+USA,North America,['Action'],,Weekend Warriors,2021,movie
+USA,North America,"['Drama', 'Horror', 'Mystery']",,Last Night in Soho,2021,movie
+USA,North America,"['Action', 'Drama', 'History']",,Prithviraj,2021,movie
+USA,North America,"['Action', 'Drama', 'Romance']",6.8,Uppena,2021,movie
+USA,North America,['Drama'],,36 Gunn,2021,movie
+USA,North America,['Comedy'],7.1,Breakup Masters,2021,movie
+USA,North America,"['Action', 'Adventure', 'Mystery']",,Shark Island,2021,movie
+USA,North America,"['Biography', 'Crime', 'Drama']",6.2,The Big Bull,2021,movie
+USA,North America,"['Comedy', 'Romance']",,Switched at Love,2021,movie
+USA,North America,"['Drama', 'Family', 'Sport']",,Home Plate,2021,movie
+USA,North America,['Documentary'],,My Ascension,2021,movie
+USA,North America,['Documentary'],8.2,Under the Volcano,2021,movie
+USA,North America,"['Comedy', 'Crime', 'Drama']",4.5,Naked Singularity,2021,movie
+USA,North America,"['Crime', 'Fantasy', 'Mystery']",,Knucks,2021,movie
+Germany,Europe,"['Drama', 'History', 'War']",6.7,The Auschwitz Report,2021,movie
+Germany,Europe,['Drama'],6,Human Factors,2021,movie
+Germany,Europe,['Documentary'],7.7,Die Unbeugsamen,2021,movie
+Germany,Europe,['Drama'],5.7,Windstill,2021,movie
+Germany,Europe,"['Biography', 'Drama']",7.2,The Last Execution,2021,movie
+Germany,Europe,"['Comedy', 'Fantasy', 'Romance']",5.7,Der Boandlkramer und die ewige Liebe,2021,movie
+Germany,Europe,"['Comedy', 'Family', 'Fantasy']",5.6,Catweazle,2021,movie
+Germany,Europe,"['Comedy', 'Crime']",7.3,Kaiserschmarrndrama,2021,movie
+Germany,Europe,['Comedy'],8.8,Stand Up,2021,movie
+Germany,Europe,['Drama'],6.9,Stambul Garden,2021,movie
+Germany,Europe,"['Documentary', 'Musical']",8.5,Roses. Film-Cabaret,2021,movie
+Germany,Europe,"['Comedy', 'Drama']",8,Dr. Ballouz,2021,tvSeries
+Germany,Europe,['Drama'],6,Me and the Others,2021,tvMiniSeries
+Germany,Europe,"['Crime', 'Drama']",6,Du sollst nicht lügen,2021,tvMiniSeries
+Germany,Europe,"['Crime', 'Drama', 'Mystery']",5.8,Hartwig Seeler - Ein neues Leben,2021,tvMovie
+Germany,Europe,"['Comedy', 'Drama', 'Family']",5.7,Das Kindermädchen - Mission Kanada,2021,tvMovie
+Germany,Europe,['Drama'],5.4,Meeresleuchten,2021,tvMovie
+Germany,Europe,"['Crime', 'Drama', 'Mystery']",7.1,Unbroken,2021,tvSeries
+Germany,Europe,"['Adventure', 'Drama']",5.8,Wild Republic,2021,tvSeries
+Germany,Europe,['Horror'],6.4,Death Camp,2021,movie
+Germany,Europe,['Drama'],6.1,Soul of a Beast,2021,movie
+Germany,Europe,['Documentary'],8.4,Neues in Wittstock,2021,movie
+Germany,Europe,"['Adventure', 'Drama']",8.7,The Kennedy Incident,2021,movie
+Germany,Europe,"['Comedy', 'Romance']",6.2,Commitment Phobia,2021,movie
+Germany,Europe,"['Adventure', 'Animation', 'Family']",5.3,The Ogglies,2021,movie
+Germany,Europe,"['Drama', 'Romance']",6.3,Bliss,2021,movie
+Germany,Europe,"['Comedy', 'Drama']",7.6,The Marriage Escape,2020,movie
+Germany,Europe,['War'],4.5,Enemy Lines,2020,movie
+Germany,Europe,"['Adventure', 'Comedy', 'Family']",6.4,Jim Button and the Wild 13,2020,movie
+Germany,Europe,"['Comedy', 'Drama']",5.8,Rising High,2020,movie
+Germany,Europe,"['Comedy', 'Romance']",6.4,Isi & Ossi,2020,movie
+Germany,Europe,"['Drama', 'War']",7.4,Persian Lessons,2020,movie
+Germany,Europe,['Drama'],7.2,Needle Park Baby,2020,movie
+Germany,Europe,['Documentary'],7.2,The American Sector,2020,movie
+Germany,Europe,"['Adventure', 'Comedy', 'Horror']",7,LOL & The Rise of Evil,2020,movie
+Germany,Europe,"['Comedy', 'Drama']",5.8,Ex,2020,movie
+Germany,Europe,"['Drama', 'Mystery', 'Sci-Fi']",5.6,The Trouble with Being Born,2020,movie
+Germany,Europe,"['Adventure', 'Comedy', 'Family']",4.8,The Magic Kids: Three Unlikely Heroes,2020,movie
+Germany,Europe,['Documentary'],7.2,"Cryptopia: Bitcoin, Blockchains and the Future of the Internet",2020,movie
+Germany,Europe,"['Biography', 'Music']",6.4,Lindenberg! Mach dein Ding,2020,movie
+Germany,Europe,['Drama'],6.2,Narcissus and Goldmund,2020,movie
+Germany,Europe,"['Drama', 'Thriller']",6.1,Open Season,2020,movie
+Germany,Europe,['Drama'],6.5,Exile,2020,movie
+Germany,Europe,"['Drama', 'Romance']",6.7,No Hard Feelings,2020,movie
+Germany,Europe,"['Adventure', 'Comedy', 'Family']",4.9,Sprite Sisters - Vier zauberhafte Schwestern,2020,movie
+Germany,Europe,"['Comedy', 'Drama', 'Romance']",6,La Palma,2020,movie
+Germany,Europe,"['Drama', 'Music', 'Sci-Fi']",6.5,Live,2020,movie
+Germany,Europe,"['Crime', 'Drama', 'Romance']",6.7,Kids Run,2020,movie
+Germany,Europe,['Comedy'],5.5,Abbi Fede,2020,movie
+Germany,Europe,['Comedy'],5.3,Die Känguru-Chroniken,2020,movie
+France,Europe,"['Adventure', 'Comedy', 'Fantasy']",7,Kaamelott: First Installment,2021,movie
+France,Europe,"['Comedy', 'Drama', 'Romance']",7.2,The French Dispatch,2021,movie
+France,Europe,['Animation'],8.1,La traversée,2021,movie
+France,Europe,"['Biography', 'Drama', 'History']",6.6,Benedetta,2021,movie
+France,Europe,['Drama'],6.3,No Trace,2021,movie
+France,Europe,['Drama'],6,Albatros,2021,movie
+France,Europe,"['Crime', 'Drama', 'Mystery']",7.5,Secret Voices,2021,movie
+France,Europe,['Drama'],6.6,Azor,2021,movie
+France,Europe,['Documentary'],9.4,The Everwarm Bed,2021,movie
+France,Europe,['Drama'],5.2,Peaceful,2021,movie
+France,Europe,['Drama'],5.5,Playground,2021,movie
+France,Europe,"['Biography', 'Crime', 'Drama']",6.6,"Bruno Reidal, Confession of a Murderer",2021,movie
+France,Europe,['Comedy'],3.3,Operation Portugal,2021,movie
+France,Europe,"['Drama', 'Sci-Fi', 'Thriller']",6.6,Titane,2021,movie
+France,Europe,"['Adventure', 'Family']",7.6,SpaceBoy,2021,movie
+France,Europe,['Documentary'],7.8,Alida,2021,movie
+France,Europe,"['Comedy', 'Crime', 'Mystery']",5.2,Do You Do You Saint-Tropez,2021,movie
+France,Europe,"['Documentary', 'Music']",8.1,Laurent Garnier: Off the Record,2021,movie
+France,Europe,"['Biography', 'Crime', 'Drama']",5.4,Madame Claude,2021,movie
+France,Europe,['Drama'],4.7,Between Two Worlds,2021,movie
+France,Europe,"['Documentary', 'Musical']",8.5,Roses. Film-Cabaret,2021,movie
+France,Europe,"['Action', 'Crime', 'Drama']",4.7,Sentinelle,2021,movie
+France,Europe,"['Crime', 'Horror', 'Mystery']",8.5,Patrick Senécal présente,2021,tvSeries
+France,Europe,"['Comedy', 'Sci-Fi']",7.8,OVNI(s),2021,tvSeries
+France,Europe,"['Biography', 'Drama', 'Romance']",5.9,Borderline,2021,movie
+France,Europe,['Horror'],6.4,Death Camp,2021,movie
+France,Europe,['Comedy'],6.5,Playlist,2021,movie
+France,Europe,['Drama'],6.3,Love Song for Tough Guys,2021,movie
+France,Europe,"['Comedy', 'Drama', 'Romance']",5.8,Modern Love,2021,movie
+France,Europe,['Drama'],5.4,Suzanna Andler,2021,movie
+France,Europe,"['Horror', 'Thriller']",7.5,The Advent Calendar,2021,movie
+France,Europe,['Drama'],8.2,En thérapie,2021,tvSeries
+France,Europe,"['Comedy', 'Horror']",5.6,Brain Freeze,2021,movie
+France,Europe,"['Action', 'Comedy']",6.1,OSS 117: From Africa with Love,2021,movie
+France,Europe,['Comedy'],5.3,Un tour chez ma fille,2021,movie
+France,Europe,"['Comedy', 'Drama']",8,Mixte,2021,tvSeries
+France,Europe,['Comedy'],5.4,Le lion,2020,movie
+France,Europe,"['Comedy', 'Drama']",6.7,Felicità,2020,movie
+France,Europe,"['Crime', 'Drama']",5.3,Night Shift,2020,movie
+France,Europe,"['Drama', 'Thriller']",5.4,Lovers,2020,movie
+France,Europe,"['Adventure', 'Drama', 'War']",6.5,Da 5 Bloods,2020,movie
+France,Europe,"['Drama', 'War']",7.4,Persian Lessons,2020,movie
+France,Europe,"['Adventure', 'Animation', 'Family']",7.5,"Calamity, a Childhood of Martha Jane Cannary",2020,movie
+France,Europe,"['Comedy', 'Drama', 'Romance']",6.9,The Half of It,2020,movie
+France,Europe,['Drama'],6.7,Small Country: An African Childhood,2020,movie
+France,Europe,['\\N'],7.2,Music Hole,2020,movie
+France,Europe,['Drama'],6.7,Adu,2020,movie
+France,Europe,['Comedy'],5,Mine de rien,2020,movie
+France,Europe,"['Crime', 'Horror', 'Thriller']",4.6,Deep Web,2020,movie
+France,Europe,['Comedy'],5,Ballsy Girl,2020,movie
+Croatia,Europe,['Drama'],7.3,A blue flower,2021,movie
+Croatia,Europe,['Drama'],6.9,After the Winter,2021,movie
+Croatia,Europe,"['Comedy', 'Drama', 'Musical']",8.3,Dnevnik velikog Perice,2021,tvMiniSeries
+Croatia,Europe,"['Action', 'Comedy', 'Music']",6.9,Tune Up,2021,movie
+Croatia,Europe,['Drama'],5.7,Mare,2020,movie
+Croatia,Europe,"['Biography', 'Documentary', 'Drama']",6.8,Nun of Your Business,2020,movie
+Croatia,Europe,['Drama'],5.6,Breasts,2020,movie
+Croatia,Europe,"['Drama', 'War']",8.9,Dara of Jasenovac,2020,movie
+Croatia,Europe,"['Biography', 'Drama', 'Romance']",8.3,Fishing and Fishermen's Conversations,2020,movie
+Croatia,Europe,['Animation'],7.1,Accidental Luxuriance of the Translucent Watery Rebus,2020,movie
+Croatia,Europe,"['Documentary', 'Sport']",8.6,Junaci nasega doba,2020,tvMiniSeries
+Croatia,Europe,"['Action', 'Drama', 'War']",7,Nestali,2020,tvMiniSeries
+Croatia,Europe,"['Documentary', 'Drama']",8.8,Life,2020,tvMovie
+Croatia,Europe,"['Comedy', 'News']",8.6,Pervanov dnevnik,2020,tvSeries
+Croatia,Europe,['Comedy'],6.8,Blago nama,2020,tvSeries
+Croatia,Europe,"['Drama', 'Romance']",8.3,Make It with You,2020,tvSeries
+Croatia,Europe,['Documentary'],7.3,Push - pull,2020,movie
+Croatia,Europe,['Documentary'],7.7,Once Upon a Youth,2020,movie
+Croatia,Europe,"['Drama', 'History', 'War']",7.9,"Quo Vadis, Aida?",2020,movie
+Croatia,Europe,['Drama'],7.1,Tereza37,2020,movie
+Croatia,Europe,['Documentary'],8.7,The Forgotten Ones,2019,movie
+Croatia,Europe,['Drama'],5.5,Heroes Don't Die,2019,movie
+Croatia,Europe,"['Documentary', 'Drama']",8,Honeyland,2019,movie
+Croatia,Europe,"['Adventure', 'Comedy', 'Horror']",6,The Last Serb in Croatia,2019,movie
+Croatia,Europe,['Drama'],7.5,Posljednji dani ljeta,2019,movie
+Croatia,Europe,"['Comedy', 'Drama', 'Fantasy']",6.5,Last Christmas,2019,movie
+Croatia,Europe,['Drama'],5.2,The Voice,2019,movie
+Croatia,Europe,"['Biography', 'Drama', 'History']",7.5,The Diary of Diana B,2019,movie
+Croatia,Europe,"['Adventure', 'Family', 'Fantasy']",6.2,My Grandpa Is an Alien,2019,movie
+Croatia,Europe,"['Biography', 'Drama', 'History']",3,General,2019,movie
+Croatia,Europe,"['Adventure', 'Comedy']",6.4,Ides? Idem!,2019,movie
+Croatia,Europe,"['Biography', 'Documentary', 'Sport']",7.4,Ivan's Game,2019,movie
+Croatia,Europe,"['Biography', 'Documentary', 'Music']",8.5,Bure bareta,2019,movie
+Croatia,Europe,['Documentary'],6.2,If Only Dreams Came True,2019,movie
+Croatia,Europe,['Documentary'],6.8,3069,2019,movie
+Croatia,Europe,"['Comedy', 'Drama']",8.1,Balkansko trojstvo,2019,movie
+Croatia,Europe,['Drama'],6.9,Matriarch,2019,movie
+Croatia,Europe,['Documentary'],8.1,Tusta,2019,movie
+Croatia,Europe,"['Comedy', 'Crime', 'Thriller']",6.2,Extracurricular,2019,movie
+Croatia,Europe,['Comedy'],6,Keep Calm and Snap,2019,movie
+Croatia,Europe,['Comedy'],7.6,Zagreb Equinox,2019,movie
+Croatia,Europe,['Crime'],9.6,Cuvari zakona,2019,tvMiniSeries
+Croatia,Europe,['Drama'],5,Ljeto 2019,2019,tvMiniSeries
+Croatia,Europe,"['Comedy', 'Short']",8.5,Svi cemo se jednog dana kopat' u Evropu,2019,tvMiniSeries
+Croatia,Europe,['Comedy'],7.2,"Dobro jutro, komsija",2019,tvSeries
+Croatia,Europe,"['Crime', 'Drama']",7.9,Uspjeh,2019,tvSeries
+Croatia,Europe,"['Short', 'Talk-Show']",4.8,24 Sata: 24 pitanja,2019,tvSeries
+Croatia,Europe,"['Biography', 'Drama', 'History']",1.9,General,2019,tvSeries
+Croatia,Europe,['Documentary'],8.5,Opstanak,2019,tvSeries
+Croatia,Europe,['Reality-TV'],2.8,Zvijezde pod hipnozom,2019,tvSeries
+Thailand,Asia,['Documentary'],9.3,Duck Academy,2020,movie
+Thailand,Asia,"['Action', 'Documentary', 'History']",7.8,Torn Cloth,2020,movie
+Thailand,Asia,['Music'],5.3,Thibaan × BNK48,2020,movie
+Thailand,Asia,"['Drama', 'Sci-Fi']",5.6,Mekong 2030,2020,movie
+Thailand,Asia,['Horror'],5.1,Pee Nak 2,2020,movie
+Thailand,Asia,"['Comedy', 'Horror', 'Romance']",6.4,Low Season,2020,movie
+Thailand,Asia,"['Comedy', 'Drama', 'Romance']",6.8,Present Still Perfect,2020,movie
+Thailand,Asia,"['Drama', 'Romance']",6.9,Classic Again,2020,movie
+Thailand,Asia,"['Documentary', 'Music']",5.7,One Take,2020,movie
+Thailand,Asia,"['Crime', 'Drama', 'Thriller']",7.8,Bad Genius,2020,tvMiniSeries
+Thailand,Asia,"['Drama', 'Fantasy', 'Romance']",7.6,Why R U?,2020,tvSeries
+Thailand,Asia,"['Comedy', 'Drama', 'Romance']",7.9,2gether,2020,tvSeries
+Thailand,Asia,"['Drama', 'Fantasy', 'Romance']",7.9,Turn Left Turn Right,2020,tvSeries
+Thailand,Asia,"['Comedy', 'Romance']",7.2,My Bubble Tea,2020,tvSeries
+Thailand,Asia,"['Drama', 'Mystery', 'Thriller']",7.4,Sleepless Society: Insomnia,2020,tvSeries
+Thailand,Asia,"['Drama', 'Horror', 'Mystery']",5.7,The Maid,2020,movie
+Thailand,Asia,['Comedy'],3.9,Pojaman Sawang Ka Ta,2020,movie
+Thailand,Asia,"['Comedy', 'Drama', 'Fantasy']",8,The Shipper,2020,tvSeries
+Thailand,Asia,"['Drama', 'Romance', 'Sport']",6.5,Hook,2020,tvSeries
+Thailand,Asia,['Drama'],6.5,The Underclass,2020,tvSeries
+Thailand,Asia,['Romance'],7.5,My Engineer,2020,tvSeries
+Thailand,Asia,['Comedy'],7,YYY,2020,tvSeries
+Thailand,Asia,['Romance'],6.5,Roommate,2020,tvSeries
+Thailand,Asia,['Romance'],6.8,EN of Love,2020,tvSeries
+Thailand,Asia,"['Drama', 'Romance']",7.9,Still 2gether,2020,tvSeries
+Thailand,Asia,"['Drama', 'Fantasy', 'Mystery']",8.2,The Gifted: Graduation,2020,tvSeries
+Thailand,Asia,['Documentary'],6.4,Lost Boys,2020,movie
+Thailand,Asia,['Documentary'],8,100 Times Reproduction of Democracy,2019,movie
+Thailand,Asia,"['Action', 'Drama', 'Fantasy']",5.1,Sisters,2019,movie
+Thailand,Asia,"['Drama', 'Horror', 'Romance']",6.5,Sang Krasue,2019,movie
+Thailand,Asia,['Horror'],5.1,Bangkok Dark Tales,2019,movie
+Thailand,Asia,"['Comedy', 'Romance']",7.2,Friend Zone,2019,movie
+Thailand,Asia,"['Comedy', 'Romance']",6.1,London Sweeties,2019,movie
+Thailand,Asia,['Comedy'],6.3,Good as New,2019,movie
+Thailand,Asia,"['Crime', 'Drama']",3.5,Erica 38,2019,movie
+Thailand,Asia,"['Action', 'Adventure', 'Drama']",5.8,The Cave,2019,movie
+Thailand,Asia,"['Comedy', 'Horror']",4.9,Pee Nak,2019,movie
+Thailand,Asia,"['Action', 'Crime', 'Drama']",4.5,Paradise Beach,2019,movie
+Thailand,Asia,"['Action', 'Thriller']",5.6,Triple Threat,2019,movie
+Thailand,Asia,"['Comedy', 'Drama']",5.7,Changeland,2019,movie
+Thailand,Asia,['Drama'],7.4,Baan Muay Thai,2019,movie
+Thailand,Asia,"['Crime', 'Drama']",7.3,Buoyancy,2019,movie
+Thailand,Asia,['Horror'],3.8,The Real Ghosts,2019,movie
+Thailand,Asia,"['Action', 'Comedy']",6.5,Bodyguard-Na-Hak (The Protector),2019,movie
+Thailand,Asia,['Action'],6.1,Peak Rescue,2019,movie
+Thailand,Asia,['Romance'],6,Heartbeats,2019,movie
+Thailand,Asia,"['Drama', 'Romance']",7.2,Happy Old Year,2019,movie
+Thailand,Asia,['Comedy'],5.8,Tootsies & the Fake,2019,movie
+Thailand,Asia,"['Drama', 'History', 'Sci-Fi']",5.2,Santikhiri Sonata,2019,movie
+Thailand,Asia,"['Crime', 'Drama', 'Thriller']",6.8,Sheep Without a Shepherd,2019,movie
+Indonesia,Asia,"['Comedy', 'Drama']",6.9,Posledniy ministr,2020,tvSeries
+Indonesia,Asia,['Mystery'],7.7,Pretty Little Liars,2020,tvSeries
+Indonesia,Asia,"['Comedy', 'Drama']",8.7,Saiyo Sakato,2020,tvMiniSeries
+Indonesia,Asia,['Drama'],8.6,"Sementara, Selamanya",2020,tvMiniSeries
+Indonesia,Asia,['Horror'],6.4,Sembil9n,2019,tvMiniSeries
+Indonesia,Asia,"['Drama', 'Fantasy', 'Romance']",8.9,Rewrite,2019,tvMiniSeries
+Indonesia,Asia,"['Adventure', 'Animation', 'Comedy']",7.8,Lorong Waktu: Animasi,2019,tvMiniSeries
+Indonesia,Asia,"['Crime', 'Drama', 'Mystery']",8.4,Tunnel,2019,tvMiniSeries
+Indonesia,Asia,"['Drama', 'Romance']",8,Assalamualaikum Calon Imam,2019,tvMiniSeries
+Indonesia,Asia,['Horror'],8,Kisah Tanah Jawa: Merapi,2019,tvMiniSeries
+Indonesia,Asia,['Horror'],5.8,Folklore,2018,tvMiniSeries
+Indonesia,Asia,"['Adventure', 'Animation', 'Family']",8.6,Nussa,2018,tvMiniSeries
+Indonesia,Asia,"['Crime', 'Drama', 'Thriller']",9,Brata,2018,tvMiniSeries
+Indonesia,Asia,"['Drama', 'Music']",8,19 Letters,2018,tvMiniSeries
+Indonesia,Asia,['Comedy'],7.9,Cek Toko Sebelah: The Series,2018,tvMiniSeries
+Indonesia,Asia,"['Action', 'Adventure', 'Animation']",8.1,Angel Dives,2018,tvSeries
+Indonesia,Asia,['Documentary'],8.8,One Strange Rock,2018,tvSeries
+Indonesia,Asia,"['Drama', 'Romance']",8.4,Sore: Istri dari Masa Depan,2017,tvMiniSeries
+Indonesia,Asia,['Drama'],7.5,Filosofi Kopi The Series: Ben & Jody,2017,tvMiniSeries
+Indonesia,Asia,['Family'],4.7,Anak Langit,2017,tvSeries
+Indonesia,Asia,['Drama'],8.7,Catatan Si Boy,2016,tvMiniSeries
+Indonesia,Asia,"['Adventure', 'Comedy', 'Romance']",9.2,Aladin & Alakadam,2016,tvSeries
+Indonesia,Asia,['Adventure'],8.6,Roro Jonggrang,2016,tvSeries
+Indonesia,Asia,['Drama'],9.1,Malaikat Kecil dari India,2016,tvSeries
+Indonesia,Asia,['Documentary'],8.2,Destination Wild: Indonesia,2015,tvMiniSeries
+Indonesia,Asia,"['Fantasy', 'Horror', 'Mystery']",6.1,Halfworlds,2015,tvMiniSeries
+Indonesia,Asia,['Romance'],8.5,Cinta di Langit Taj Mahal,2015,tvSeries
+Indonesia,Asia,['Reality-TV'],7.6,The Eco-Warriors,2015,tvSeries
+Indonesia,Asia,"['Comedy', 'Drama']",8.5,Preman Pensiun,2015,tvSeries
+Indonesia,Asia,['Family'],7.5,Anak Jalanan,2015,tvSeries
+Indonesia,Asia,"['Adventure', 'Animation', 'Comedy']",7.8,Kiko,2014,tvSeries
+Indonesia,Asia,['Reality-TV'],8.4,Panah Asmara Arjuna,2014,tvSeries
+Indonesia,Asia,"['Fantasy', 'Romance']",2.6,Ganteng Ganteng Serigala,2014,tvSeries
+Indonesia,Asia,"['Action', 'Drama', 'Fantasy']",8.9,Satria Garuda: Bima-X,2014,tvSeries
+Indonesia,Asia,['\\N'],6.3,Monyet Cantik 2,2013,tvSeries
+Indonesia,Asia,"['Action', 'Fantasy', 'Sci-Fi']",8.2,Bima Satria Garuda,2013,tvSeries
+Indonesia,Asia,['Comedy'],8.3,Oesman 77,2013,tvSeries
+Indonesia,Asia,['Comedy'],7.4,Malam Minggu Miko,2012,tvMiniSeries
+Indonesia,Asia,['Drama'],9,"Saranghae, I Love You",2012,tvMiniSeries
+Indonesia,Asia,['Drama'],8,Hanya Kamu,2012,tvSeries
+Indonesia,Asia,['Drama'],6.3,Insya Allah Ada Jalan,2012,tvSeries
+Indonesia,Asia,"['Music', 'Reality-TV']",6.8,The X Factor Indonesia,2012,tvSeries
+Indonesia,Asia,"['Animation', 'Comedy']",8.3,My Ordinary Life,2011,tvSeries
+Indonesia,Asia,"['Comedy', 'Drama']",8.5,Rake,2010,tvSeries
+Indonesia,Asia,"['Animation', 'Comedy', 'Drama']",7.9,Clannad,2007,tvSeries
+Indonesia,Asia,['Action'],8.9,Nyi Roro Kidul,2003,tvSeries
+Indonesia,Asia,"['Action', 'Fantasy']",6,Panji Manusia Milenium,2001,tvSeries
+Indonesia,Asia,"['Action', 'Drama', 'Mystery']",7.6,Alias,2001,tvSeries
+Indonesia,Asia,['Action'],8,Angling Dharma,2000,tvSeries
+Indonesia,Asia,"['Action', 'Horror']",7.6,Misteri Gunung Merapi,1998,tvSeries
+Netherlands,Europe,['Documentary'],8.5,De Droevige Kampioen,2021,tvMiniSeries
+Netherlands,Europe,"['Comedy', 'Drama']",7.5,Glad IJs,2021,tvSeries
+Netherlands,Europe,"['Comedy', 'Drama', 'Thriller']",6.9,Lockdown,2021,tvSeries
+Netherlands,Europe,['Documentary'],7.7,De zware jas van Beatrix,2020,tvMiniSeries
+Netherlands,Europe,['Documentary'],7.3,De slag om Texas,2020,tvMiniSeries
+Netherlands,Europe,['Documentary'],8.3,In de voetsporen van de Bevrijding,2020,tvMiniSeries
+Netherlands,Europe,['Documentary'],8.8,Krabbé zoekt Chagall,2020,tvMiniSeries
+Netherlands,Europe,['Documentary'],7.1,"God, Jesus, Trump!",2020,tvMiniSeries
+Netherlands,Europe,['Crime'],7.3,Doodstil,2020,tvMiniSeries
+Netherlands,Europe,['Romance'],4.6,De bachelorette,2020,tvMiniSeries
+Netherlands,Europe,['Drama'],6.9,High Flyers,2020,tvSeries
+Netherlands,Europe,"['Drama', 'Horror', 'Mystery']",5.6,Ares,2020,tvSeries
+Netherlands,Europe,['Drama'],6.5,GR5,2020,tvSeries
+Netherlands,Europe,"['Comedy', 'Crime']",8,Een Goed Jaar,2020,tvSeries
+Netherlands,Europe,['Family'],7.1,Lego Masters - Dutch,2020,tvSeries
+Netherlands,Europe,['Drama'],7.8,Dertigers (NL),2020,tvSeries
+Netherlands,Europe,['Documentary'],8.4,Rising Tides,2020,tvSeries
+Netherlands,Europe,['Documentary'],7.7,De villamoord,2020,tvSeries
+Netherlands,Europe,"['Biography', 'Drama', 'History']",8.9,Anne Frank Video Diary,2020,tvSeries
+Netherlands,Europe,['Drama'],7.4,Swanenburg,2020,tvSeries
+Netherlands,Europe,['Comedy'],6.5,Nieuw Zeer,2020,tvSeries
+Netherlands,Europe,['Reality-TV'],6,Expeditie Robinson: Nederland vs België,2020,tvSeries
+Netherlands,Europe,['Talk-Show'],4.4,Op1,2020,tvSeries
+Netherlands,Europe,['Drama'],7.3,Het A-woord,2020,tvSeries
+Netherlands,Europe,['Drama'],7.9,I.M.,2020,tvSeries
+Netherlands,Europe,"['Action', 'Drama']",6.2,Blackout,2020,tvSeries
+Netherlands,Europe,['Family'],8.2,Hoodie,2020,tvSeries
+Netherlands,Europe,"['Crime', 'Drama', 'Thriller']",7.2,Red Light,2020,tvSeries
+Netherlands,Europe,['Drama'],7.4,Koppensnellers,2020,tvSeries
+Netherlands,Europe,"['Action', 'Drama', 'Thriller']",7.1,Commandos,2020,tvSeries
+Netherlands,Europe,"['Comedy', 'Romance']",7.7,Kerstgezel.nl,2020,tvSeries
+Netherlands,Europe,['Comedy'],8.1,Opslaan als de serie,2020,tvSeries
+Netherlands,Europe,['Thriller'],6.8,Lieve Mama,2020,tvMiniSeries
+Netherlands,Europe,['Comedy'],7.1,Barrie Barista en het einde der tijden,2020,tvSeries
+Netherlands,Europe,"['Comedy', 'Family']",4.8,Samson en Marie,2020,tvSeries
+Netherlands,Europe,['Documentary'],8.9,100 dagen voor de klas,2020,tvSeries
+Netherlands,Europe,['Talk-Show'],6.4,De vooravond,2020,tvSeries
+Netherlands,Europe,['Documentary'],6.3,Tokyo van Boven,2019,tvMiniSeries
+Netherlands,Europe,['Documentary'],6.2,Frans Bauer in China,2019,tvMiniSeries
+Netherlands,Europe,"['Biography', 'Crime', 'Drama']",7.2,Stanley H.,2019,tvMiniSeries
+Netherlands,Europe,['\\N'],6.8,Bizzey,2019,tvMiniSeries
+Netherlands,Europe,['Documentary'],7,Badr,2019,tvMiniSeries
+Netherlands,Europe,['Documentary'],8.8,Onze Jongens op Java,2019,tvMiniSeries
+Netherlands,Europe,"['Drama', 'Family']",7.3,H3L,2019,tvMiniSeries
+Netherlands,Europe,['\\N'],7.9,Het Beest van Harkstede,2019,tvMiniSeries
+Netherlands,Europe,['Comedy'],7.2,Kerst bij Koosje,2019,tvMiniSeries
+Netherlands,Europe,['Documentary'],8.4,Chinese dromen,2019,tvMiniSeries
+Netherlands,Europe,['Documentary'],8.4,Rond de Noordzee,2019,tvMiniSeries
+Netherlands,Europe,['Documentary'],8.6,"In Europa, de geschiedenis op heterdaad betrapt",2019,tvSeries
+Netherlands,Europe,['Drama'],8.4,Remy & Juliyat,2019,tvSeries
+South Korea,Asia,['Drama'],8,Youth Recipe,2021,tvSeries
+South Korea,Asia,"['Fantasy', 'Romance']",7.6,How Are You Bread,2020,tvMiniSeries
+South Korea,Asia,"['Drama', 'Romance']",7.8,XX,2020,tvMiniSeries
+South Korea,Asia,"['Drama', 'Romance']",7.4,Forest,2020,tvMiniSeries
+South Korea,Asia,"['Music', 'Reality-TV']",8.6,Good Girl,2020,tvMiniSeries
+South Korea,Asia,"['Comedy', 'Drama', 'Romance']",7.7,Soul Mechanic,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Fantasy', 'Mystery']",8,Mystic Pop-up Bar,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Drama', 'Romance']",7.2,Eccentric! Chef Moon,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Drama', 'Romance']",8.4,Once Again,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Drama', 'Romance']",7.7,Brilliant Heritage,2020,tvSeries
+South Korea,Asia,"['Music', 'Reality-TV']",7.9,Road to Kingdom,2020,tvSeries
+South Korea,Asia,"['Drama', 'Romance']",8.1,The World of the Married,2020,tvSeries
+South Korea,Asia,"['Fantasy', 'Mystery', 'Romance']",6.7,Born Again,2020,tvSeries
+South Korea,Asia,"['Crime', 'Drama', 'Fantasy']",8.1,365: Repeat the Year,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Fantasy', 'Romance']",7.2,Welcome,2020,tvSeries
+South Korea,Asia,"['Fantasy', 'Mystery', 'Thriller']",7.7,Memorist,2020,tvSeries
+South Korea,Asia,"['Crime', 'Drama', 'Mystery']",8.1,Nobody Knows,2020,tvSeries
+South Korea,Asia,"['Fantasy', 'Mystery', 'Romance']",7.4,Find Me in Your Memory,2020,tvSeries
+South Korea,Asia,"['Drama', 'Fantasy', 'Mystery']",7.3,The Cursed,2020,tvSeries
+South Korea,Asia,"['Fantasy', 'Mystery', 'Sci-Fi']",8,Train,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Drama', 'Fantasy']",8,"Hi Bye, Mama!",2020,tvSeries
+South Korea,Asia,"['Action', 'Crime', 'Sci-Fi']",6.4,Rugal,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Drama']",8.8,Hospital Playlist,2020,tvSeries
+South Korea,Asia,"['Crime', 'Mystery', 'Romance']",8.8,The Flower of Evil,2020,tvSeries
+South Korea,Asia,"['Mystery', 'Thriller']",7.7,Tell Me What You Saw,2020,tvSeries
+South Korea,Asia,"['Drama', 'Romance']",7.9,When the Weather is Fine,2020,tvSeries
+South Korea,Asia,"['Crime', 'Drama', 'Fantasy']",7.2,The Game: Towards Zero,2020,tvSeries
+South Korea,Asia,"['Drama', 'Romance']",7.8,Hyena,2020,tvSeries
+South Korea,Asia,['\\N'],6.9,Touch,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Romance']",7.4,A Piece of Your Mind,2020,tvSeries
+South Korea,Asia,['Drama'],8,Money Game,2020,tvSeries
+South Korea,Asia,"['Drama', 'Romance']",8.2,Itaewon Class,2020,tvSeries
+South Korea,Asia,"['Fantasy', 'Mystery', 'Romance']",8.3,The King: Eternal Monarch,2020,tvSeries
+South Korea,Asia,"['Drama', 'Romance', 'Sci-Fi']",7.7,My Holo Love,2020,tvMiniSeries
+South Korea,Asia,"['Action', 'Comedy', 'Crime']",7.3,Good Casting,2020,tvSeries
+South Korea,Asia,"['Crime', 'Drama']",7.7,Extracurricular,2020,tvSeries
+South Korea,Asia,"['Drama', 'Romance']",7.2,Oh My Baby,2020,tvSeries
+South Korea,Asia,"['Drama', 'Fantasy', 'History']",7.5,Kingmaker: The Change of Destiny,2020,tvSeries
+South Korea,Asia,"['Drama', 'Romance']",7.6,When My Love Blooms,2020,tvSeries
+South Korea,Asia,"['Action', 'Crime', 'Drama']",7.5,Team Bulldog: Off-duty Investigation,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Drama', 'Romance']",6.9,Sweet Munchies,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Romance', 'Short']",8,Where Your Eyes Linger,2020,tvMiniSeries
+South Korea,Asia,"['Comedy', 'Drama', 'Romance']",7.4,Dinner Mate,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Drama', 'Romance']",8.8,It's Okay to Not Be Okay,2020,tvSeries
+South Korea,Asia,['Drama'],8.1,My Unfamiliar Family,2020,tvSeries
+South Korea,Asia,['Reality-TV'],8.5,Twogether,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Drama', 'Romance']",7.4,Into the Ring,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Fantasy', 'Romance']",6.5,To All the Guys Who Loved Me,2020,tvSeries
+South Korea,Asia,"['Action', 'Drama', 'Mystery']",7.5,The Good Detective,2020,tvSeries
+South Korea,Asia,"['Comedy', 'Drama']",7.4,Kkondae Intern,2020,tvSeries
+Japan,Asia,"['Adventure', 'Animation', 'Drama']",7.4,Super Cub,2021,tvSeries
+Japan,Asia,"['Adventure', 'Animation', 'Drama']",8.9,To Your Eternity,2021,tvSeries
+Japan,Asia,"['Action', 'Animation', 'Crime']",1.8,Ex-Arm,2021,tvSeries
+Japan,Asia,['Sport'],6.3,Tokyo 2020: Games of the XXXII Olympiad,2021,tvMiniSeries
+Japan,Asia,"['Action', 'Animation', 'Comedy']",7.5,Cells at Work! Code Black,2021,tvSeries
+Japan,Asia,['Drama'],7.3,HodoBuzz,2020,tvMiniSeries
+Japan,Asia,['Drama'],7.3,Akira Hamura: The Detective Most Unfortunate in the World,2020,tvMiniSeries
+Japan,Asia,['Drama'],6.6,Shiro demo Kuro demo Nai Sekai de Panda wa Warau,2020,tvMiniSeries
+Japan,Asia,['Drama'],4.9,Shiranakuteii Koto,2020,tvMiniSeries
+Japan,Asia,"['Animation', 'Sport']",5.5,Breakers,2020,tvMiniSeries
+Japan,Asia,"['Animation', 'Comedy', 'Sport']",7.7,Haikyuu!!: Riku vs kuu,2020,tvMiniSeries
+Japan,Asia,"['Animation', 'Drama']",7.4,Pokémon: Twilight Wings,2020,tvMiniSeries
+Japan,Asia,"['Adventure', 'Animation', 'Comedy']",7.1,Room Camp,2020,tvMiniSeries
+Japan,Asia,"['Action', 'Crime', 'Drama']",5.8,24 Japan,2020,tvSeries
+Japan,Asia,"['Action', 'Animation', 'Drama']",6.3,Magia Record: Puella Magi Madoka Magica Side Story,2020,tvSeries
+Japan,Asia,"['Action', 'Animation', 'Crime']",6.3,Ghost in the Shell SAC_2045,2020,tvSeries
+Japan,Asia,"['Action', 'Animation', 'Drama']",6.2,Cagaster of an Insect Cage,2020,tvSeries
+Japan,Asia,"['Animation', 'Drama', 'Fantasy']",6.7,Kamisama ni Natta hi,2020,tvSeries
+Japan,Asia,"['Animation', 'Fantasy', 'Music']",6.6,Lapis Re:Lights,2020,tvSeries
+Japan,Asia,"['Action', 'Adventure', 'Animation']",7.2,Yashahime: Princess Half-Demon,2020,tvSeries
+Japan,Asia,"['Drama', 'History', 'Mystery']",7.2,Cicada of Autumn,2020,tvSeries
+Japan,Asia,"['Action', 'Adventure', 'Animation']",7.4,The God of High School,2020,tvSeries
+Japan,Asia,"['Drama', 'Mystery', 'Romance']",7.9,Watashi-tachi wa Doka Shiteiru,2020,tvMiniSeries
+Japan,Asia,['Animation'],6.5,Mewkledreamy,2020,tvSeries
+Japan,Asia,"['Animation', 'Drama', 'Music']",6.5,Argonavis from Bang Dream! Animation,2020,tvSeries
+Japan,Asia,['Animation'],4.9,Zashiki-Warashi no Tatami-chan,2020,tvSeries
+Japan,Asia,"['Animation', 'Sport']",6.4,Tamayomi: The Baseball Girls,2020,tvSeries
+Japan,Asia,"['Animation', 'Crime', 'Drama']",7.4,The Millionaire Detective: Balance - Unlimited,2020,tvSeries
+Japan,Asia,"['Animation', 'Fantasy']",6.5,Shadowverse,2020,tvSeries
+Japan,Asia,"['Action', 'Adventure', 'Animation']",4.9,Yu-Gi-Oh! Sevens,2020,tvSeries
+Japan,Asia,"['Animation', 'Comedy']",6.8,Extra Olympia Kyklos,2020,tvSeries
+Japan,Asia,"['Action', 'Adventure', 'Animation']",6.6,Bungou to Alchemist: Shinpan no Haguruma,2020,tvSeries
+Japan,Asia,"['Crime', 'Drama', 'Horror']",6.8,The Forest of Love: Deep Cut,2020,tvMiniSeries
+Japan,Asia,"['Animation', 'Comedy', 'Drama']",7.2,Diary of Our Days at the Breakwater,2020,tvSeries
+Japan,Asia,"['Action', 'Adventure', 'Animation']",7.8,Tower of God,2020,tvSeries
+Japan,Asia,"['Animation', 'Drama', 'Romance']",6.3,Ore no Yubi de Midarero,2020,tvSeries
+Japan,Asia,"['Animation', 'Comedy', 'Drama']",6.5,Ochikobore Fruit Tart,2020,tvSeries
+Japan,Asia,"['Action', 'Adventure', 'Comedy']",8,Ultraman Z,2020,tvSeries
+Japan,Asia,"['Adventure', 'Animation', 'Drama']",6.4,Japan Sinks: 2020,2020,tvSeries
+Japan,Asia,"['Animation', 'Drama', 'Music']",6.4,22-?.?.,2020,tvSeries
+Japan,Asia,['Mystery'],6.3,The Lunchtime Detective,2020,tvSeries
+Japan,Asia,['Drama'],6.8,Ship of Theseus,2020,tvSeries
+Japan,Asia,"['Action', 'Animation', 'Fantasy']",7.2,BNA,2020,tvMiniSeries
+Japan,Asia,"['Action', 'Animation', 'Fantasy']",6.9,Gleipnir,2020,tvSeries
+Japan,Asia,"['Action', 'Adventure', 'Animation']",6.3,Princess Connect! Re: Dive,2020,tvSeries
+Japan,Asia,"['Action', 'Animation', 'Fantasy']",6.4,The Eighth Son? That Can't Be Right!,2020,tvSeries
+Japan,Asia,['Animation'],5.8,"President, It's Time for Battle!",2020,tvSeries
+Japan,Asia,['Animation'],7.5,Otome Game No Hametsu Flag Shika Nai Akuyaku Reijou Ni Tensei Shiteshimatta...,2020,tvSeries
+Japan,Asia,"['Animation', 'Comedy', 'Drama']",7.4,Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...,2020,tvSeries
+Japan,Asia,"['Animation', 'Comedy', 'Drama']",7,"Wave, Listen to Me!",2020,tvSeries
+China,Asia,['Romance'],9.1,Falling Into Your Smile,2021,tvSeries
+China,Asia,"['Comedy', 'Drama']",9.5,One Boat One World,2021,tvSeries
+China,Asia,"['Drama', 'Fantasy', 'History']",8.2,Yu Long,2021,tvSeries
+China,Asia,['Documentary'],8.2,Mask Hunter,2020,tvMiniSeries
+China,Asia,['Documentary'],7.4,Tales of Chinese Filmmakers,2020,tvMiniSeries
+China,Asia,['Comedy'],6.9,Stand-Up Comedy,2020,tvMiniSeries
+China,Asia,['Documentary'],6.6,Pot of Fire,2020,tvMiniSeries
+China,Asia,['Crime'],7,Forensic Heroes IV,2020,tvMiniSeries
+China,Asia,['Drama'],5,'In New York',2020,tvSeries
+China,Asia,"['Drama', 'History', 'Mystery']",8.2,Ancient Detective,2020,tvSeries
+China,Asia,"['Comedy', 'Drama', 'Fantasy']",7.9,The Romance of Tiger and Rose,2020,tvSeries
+China,Asia,['Romance'],8.5,Count Your Lucky Stars,2020,tvSeries
+China,Asia,['Drama'],8.4,"My Love, Enlighten Me",2020,tvSeries
+China,Asia,"['Drama', 'Mystery']",6.9,Antique Bureau Midgame,2020,tvSeries
+China,Asia,['Reality-TV'],6.7,Chuang 2020,2020,tvSeries
+China,Asia,"['Comedy', 'Drama', 'Romance']",8.3,Begin Again,2020,tvSeries
+China,Asia,"['Drama', 'Mystery', 'Romance']",6.6,Beautiful Reborn Flower,2020,tvSeries
+China,Asia,['Drama'],8,My Sassy Deskmate,2020,tvSeries
+China,Asia,"['Drama', 'History', 'Mystery']",7.2,Cicada of Autumn,2020,tvSeries
+China,Asia,"['Drama', 'Romance']",7.6,Yun Se Guo Nong,2020,tvSeries
+China,Asia,['Drama'],8.2,Chef Hua,2020,tvSeries
+China,Asia,['Drama'],8,Closer to You,2020,tvSeries
+China,Asia,"['Action', 'Adventure', 'Drama']",8.3,Reunion: The Sound of the Providence,2020,tvSeries
+China,Asia,['Drama'],5.6,To Dear Myself,2020,tvSeries
+China,Asia,"['Action', 'Crime', 'Drama']",7.5,The Confidence,2020,tvSeries
+China,Asia,['Drama'],7.4,The Love Lasts Two Minds,2020,tvSeries
+China,Asia,['Drama'],6.4,My Lonely Planet,2020,tvSeries
+China,Asia,['Drama'],7.5,Girlfriend,2020,tvSeries
+China,Asia,"['Comedy', 'Drama', 'Romance']",7.5,Quan shi jie zui hao de ni,2020,tvSeries
+China,Asia,"['Comedy', 'Crime', 'Drama']",8.1,My Roommate Is a Detective,2020,tvSeries
+China,Asia,"['Drama', 'History', 'Romance']",7.7,The Chang'an Youth,2020,tvSeries
+China,Asia,"['Crime', 'Drama', 'Mystery']",8.4,The Sleuth of the Ming Dynasty,2020,tvSeries
+China,Asia,['Drama'],7.5,The Love Equations,2020,tvSeries
+China,Asia,"['Drama', 'History', 'Music']",9,Winter Begonia,2020,tvSeries
+China,Asia,"['Comedy', 'Drama', 'Romance']",8.3,Bing tang dun xue li,2020,tvSeries
+China,Asia,"['Comedy', 'Romance', 'Sport']",8,Skate Into Love,2020,tvSeries
+China,Asia,['Drama'],6.8,Wu Xin Fa Shi 3,2020,tvSeries
+China,Asia,"['Drama', 'History', 'Mystery']",8.6,Miss Truth,2020,tvSeries
+China,Asia,"['Action', 'Adventure', 'Fantasy']",8.4,Guardians of the Ancient Oath,2020,tvSeries
+China,Asia,"['Adventure', 'Fantasy', 'History']",7.8,The Killing of Three Thousand Crows,2020,tvSeries
+China,Asia,['Romance'],7.2,Perfect Partner,2020,tvSeries
+China,Asia,"['Drama', 'History']",7.4,Island Nation,2020,tvSeries
+China,Asia,"['Adventure', 'Comedy', 'Crime']",7.7,I've Fallen for You,2020,tvSeries
+China,Asia,"['Adventure', 'Animation']",7.4,The Daily Life of the Immortal King,2020,tvSeries
+China,Asia,"['Action', 'Drama']",6.9,Dear Military Uniform,2020,tvSeries
+China,Asia,"['Drama', 'Romance']",7.8,Find Yourself,2020,tvSeries
+China,Asia,['Drama'],7.9,Run for Young,2020,tvSeries
+China,Asia,['Drama'],6.5,Detective Chinatown,2020,tvSeries
+China,Asia,"['Comedy', 'Drama', 'Romance']",7.6,Rebirth of Shopping Addict,2020,tvSeries
+China,Asia,"['Action', 'Crime', 'Drama']",6.3,Hunting,2020,tvSeries
